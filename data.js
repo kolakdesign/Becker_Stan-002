@@ -148,7 +148,7 @@ var APP_DATA = {
           "target": "0-hodnik"
         },
         {
-          "yaw": -3.040291151033445,
+          "yaw": -2.040291151033445,
           "pitch": 0.06551490393626835,
           "rotation": 0,
           "target": "3-spavaa-soba"
