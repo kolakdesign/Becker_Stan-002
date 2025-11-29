@@ -149,7 +149,7 @@ var APP_DATA = {
         },
         {
           "yaw": -3.040291151033445,
-          "pitch": 0.56551490393626835,
+          "pitch": 2.56551490393626835,
           "rotation": 0,
           "target": "3-spavaa-soba"
         }
