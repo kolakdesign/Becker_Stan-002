@@ -143,7 +143,7 @@ var APP_DATA = {
         },
         {
           "yaw": 2.0,
-          "pitch": 0.0,
+          "pitch": 2.0,
           "rotation": 1.5707963267948966,
           "target": "0-hodnik"
         },
