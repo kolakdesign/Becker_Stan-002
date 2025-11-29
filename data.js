@@ -142,9 +142,9 @@ var APP_DATA = {
           "target": "1-dnevni-boravak"
         },
         {
-          "yaw": -2.5201265134490587,
+          "yaw": -0.5201265134490587,
           "pitch": 0.12474312727872146,
-          "rotation": -10,
+          "rotation": 5,
           "target": "0-hodnik"
         },
         {
