@@ -142,14 +142,14 @@ var APP_DATA = {
           "target": "1-dnevni-boravak"
         },
         {
-          "yaw": -0.5201265134490587,
-          "pitch": 1.12474312727872146,
-          "rotation": 90,
+          "yaw": -2.860716293597072,
+          "pitch": 0.1197183968902813,
+          "rotation": 1.5707963267948966,
           "target": "0-hodnik"
         },
         {
-          "yaw": -2.5,
-          "pitch": 0.0531877793273182,
+          "yaw": -3.040291151033445,
+          "pitch": 0.06551490393626835,
           "rotation": 0,
           "target": "3-spavaa-soba"
         }
